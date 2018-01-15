@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #$/home/pi/WLC-Button-OSC/osc-button.py
 
-#Jan. 18, 2017
+#Jan. 14, 2017
 #First Attempt at Button Inputs
 #Goal is to get the program to take a button Press on GPIO18 and Print "Go" *done
 #new goal: get OSC Commands to send. * Done
