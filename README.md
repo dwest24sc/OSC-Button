@@ -1,18 +1,17 @@
-1/13/18
- OSC-Button verson 0.1
+1/18/18
+ OSC-Button verson 0.5
 # OSC-Button
 
-This is an all weekend endeavor to learn what a Pi is, how to code in Python
-and how to get a simple OSC Command (1 command) sent to a console or a QLAB machine.
+This is a chanllenge to myself to learn what a Pi is, how to code in Python
+and how to get a simple OSC Command (1 command) sent to a lighting console or a QLAB machine.
 
-first itteration has lots of hash marks for notes for me.
-OSC Commands currently set up for EOS
+Previous itterations have gone from input on contacts only to outputs in OSC.
+Added a small 128x64 screen for cue numbers. That works
 
-second itteration cleaned it up and allows more contacts and gets rid of the needing to be done in order.
+Current challenge is getting OSC commands (the cue numbers to be exact) to display on the screen.
+I can get it to do the display text just fine.  Now it's about getting the UDP data and displaying
+some of it.
 
-third itteration, which is the un numbered one (i blame git hub confusion on that), is the most recet
-and does it without extraneous comments from my work in progress.
-
-next hope is a screen for current cue playback display information.
+Previous versions deleted because the latest version is so massive and combines many things into one script.
 
 Ideas being used from various sources.  Including cscashby/pi-showcontrol.
